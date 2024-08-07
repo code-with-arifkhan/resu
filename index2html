@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>form tutorial</title>
+</head>
+<body>
+
+    <table id="top">
+        <tr>
+<td><img  src="boy.jpg" alt=""></td>
+<td>   <p><strong> hy my name is arif khan</strong></p>
+    <p> i ❤️ am learing web development</p>
+    <a href="#contact"><p>connect with me</p></a>
+    <a href="list item.html">another file</a>
+</td>
+</tr>
+    </table>
+   
+
+    <hr>
+
+    <!-- hader and -->
+
+    <h2>education</h2>
+    <table border="" >
+        <tr>
+            <th>course</th>
+            <th>institue</th>
+            <th>year</th>
+            <th>result</th>
+        </tr>
+        <tr>
+            <td>development</td>
+            <td>iop collage</td>
+            <td>2022</td>
+            <td>pending</td>
+        </tr>
+        <tr>
+            <td>12<sup>th</sup>grade</td>
+            <td>gla </td>
+            <td>2023</td>
+            <td>panding</td>
+        </tr>
+    </table>
+
+    <h2>internship</h2>
+    <p><i> that is great platform to build your courirer</i></p>
+    <ul>
+        <li>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique dicta, numquam nostrum architecto velit quod enim eveniet autem reprehenderit laborum?</li>
+        <li>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Saepe commodi quae eaque, reprehenderit deleniti corporis quas et fugiat doloribus. Asperiores tenetur perferendis dolore maiores assumenda?</li>
+    </ul>
+
+    <h2 id="project">project</h2>
+    <ul>
+        <li>
+            <h3>etherum voting</h3>
+            <ul>
+                <li> <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate adipisci laborum eius est nisi molestias porro minus nihil animi sit?</p></li>
+                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus nemo provident voluptas? Sequi cumque accusantium esse laboriosam nobis atque eveniet?</li>
+            </ul>
+           
+        </li>
+        <li>
+       <h3>shuffler</h3>
+       <ul>
+        <li><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates iure quae consequuntur recusandae debitis harum eaque totam earum eveniet inventore fugit eum mollitia modi saepe aspernatur, a ab doloremque perferendis quod minima, quia vel illo consectetur! Aspernatur laudantium commodi eaque.</p></li>
+       </ul>
+        </li>
+    </ul>
+
+    <!-- main section end -->
+
+    <h2 id="contact" >contact with me</h2>
+        <ul>
+            <li>email arifkhancool01.ar@gmail.com</li>
+            <li >github </li>
+        </ul>
+        <ul>
+<li>
+     <a href="#top"><p>go to top</p></a>
+</li>
+        </ul>
+       
+
+        <h2>that is paragraph section</h2>
+        <ul>
+            <li>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquam, ad qui. Non in dolor sequi praesentium, dicta minus repudiandae nostrum facere vel magni quae provident fuga corporis nam! Incidunt, ipsa quam nisi blanditiis, dolorem dolor corporis accusamus exercitationem aliquid, natus aspernatur aperiam voluptatum quos sit adipisci error facere atque reiciendis!</li>
+            <li><p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae eveniet fuga quis magni sint soluta nulla impedit repellat veritatis ipsum deserunt voluptas sequi expedita, blanditiis magnam facere inventore possimus dolorum doloribus quos eligendi dolores similique? Praesentium a excepturi itaque in officiis porro necessitatibus, facere, ex suscipit repudiandae ipsam amet veniam!</p></li>
+            <li><p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Magni porro nam quo esse totam consequuntur voluptates saepe, maiores vero tempore eos expedita praesentium, est consequatur deleniti ipsam adipisci molestias libero repellendus aspernatur dolore sunt incidunt alias molestiae? Voluptatem repellat, debitis provident molestiae delectus sunt incidunt possimus eveniet consectetur nostrum quae?</p></li>
+        </ul>
+
+        <a href="https://instagram.com">instagram</a>
+</body>
+</html>
